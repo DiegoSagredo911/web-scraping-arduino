@@ -93,7 +93,7 @@ for(int i=0;i<dataig.length();i++)
     u8g2.print(array[1]);
     u8g2.drawFrame(0, 32, 128, 32);
     u8g2.drawStr(4, 45, "Seguidores");
-    u8g2.drawStr(72, 45, "Siguendo");
+    u8g2.drawStr(72, 45, "Seguidos");
     u8g2.setCursor(4, 60);
     u8g2.print(array[2]);
     u8g2.setCursor(72, 60);
