@@ -37,6 +37,6 @@ try:
             #system("cls")
             print(f"No Changes {datetime.datetime.now()}")
         
-        time.sleep(5)
+        time.sleep(180)
 except:
     print("Error")
